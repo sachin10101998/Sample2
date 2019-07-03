@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/" 
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
+
+
+
+  <channel>
+    <title> Comments</title>
+    <description>AIMA Exercises: Exercises for the book Artificial Intelligence: A Modern Approach</description>
+    <link>http://localhost:4000/comments/</link>
+    <atom:link href="http://localhost:4000/comments.xml" rel="self" type="application/rss+xml" />
+    <copyright>2018 Joseph Hendrix</copyright>
+    <language>en-us</language>
+    
+  </channel>
+</rss>
